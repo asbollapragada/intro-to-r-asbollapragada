@@ -6,6 +6,9 @@ editor: visual
 
 ## Finding the version of R
 
+### Author: Anjani Sowmya Bollapragada
+### SID: 23851219
+
 ```{r}
 R.version
 ```
